@@ -1,0 +1,12 @@
+[submodule "kicad-footprints"]
+	path = kicad-footprints
+	url = git@github.com:gcormier/kicad-footprints.git
+[submodule "kicad-symbols"]
+	path = kicad-symbols
+	url = git@github.com:gcormier/kicad-symbols.git
+[submodule "kicad-packages3D"]
+	path = kicad-packages3D
+	url = git@github.com:gcormier/kicad-packages3D.git
+[submodule "InteractiveHtmlBom"]
+	path = InteractiveHtmlBom
+	url = git@github.com:openscopeproject/InteractiveHtmlBom.git
