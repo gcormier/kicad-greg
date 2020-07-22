@@ -1,0 +1,44 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2003B
+D LIN Transceiver with Voltage Regulator, 5V, PDIP
+K LIN transceiver regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22299B.pdf
+$ENDCMP
+#
+$CMP SW_DP3T
+D Switch, three position, single pole triple throw, 3 position switch, SP3T
+K switch sp3t ON-ON-ON
+F ~
+$ENDCMP
+#
+$CMP TPS560430X3F
+D 2A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-6
+K step-down dcdc voltage regulator
+F http://www.ti.com/lit/ds/symlink/tps563200.pdf
+$ENDCMP
+#
+$CMP TPS563200
+D 3A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-6
+K step-down dcdc voltage regulator
+F http://www.ti.com/lit/ds/symlink/tps563200.pdf
+$ENDCMP
+#
+$CMP TPS565208
+D 5A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-6
+K step-down dcdc voltage regulator
+F http://www.ti.com/lit/ds/symlink/tps565208.pdf
+$ENDCMP
+#
+$CMP VXO78xx
+D 1A
+K buck Voltage Regulator 1A
+$ENDCMP
+#
+$CMP esp32buddy
+D esp32 receiver
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library
